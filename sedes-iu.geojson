@@ -33,9 +33,6 @@
         ]
       },
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "name": "Los Ángeles",
         "description": "Acera de la Iglesia, 10",
         "iconUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60.png",
