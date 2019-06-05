@@ -15,11 +15,11 @@
         "name": "Alcolea",
         "description": "Travesía Acequia, 7",
         "iconUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60.png",
-        "iconSize": "50,60",
-        "iconAnchor": "16,60",
+        "iconSize": "[50,60]",
+        "iconAnchor": "[16,60]",
         "shadowUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60_sombra.png",
-        "shadowAnchor": "0,14",
-        "shadowSize": "65,14"
+        "shadowAnchor": "[0,14]",
+        "shadowSize": "[65,14]"
       }
     },
     {
