@@ -1,0 +1,782 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.67449899884453,
+          37.93101483081636,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Alcolea",
+        "description": "Travesía Acequia, 7",
+        "iconUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60.png",
+        "iconSize": "50,60",
+        "iconAnchor": "16,60",
+        "shadowUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60_sombra.png",
+        "shadowAnchor": "0,14",
+        "shadowSize": "65,14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.776672937468113,
+          37.8837788655184,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sede provincial",
+        "description": "Ambrosio de Morales, 1",
+        "iconUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60.png",
+        "iconSize": "50,60",
+        "iconAnchor": "16,60",
+        "shadowUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60_sombra.png",
+        "shadowAnchor": "0,14",
+        "shadowSize": "65,14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.753865319463926,
+          37.89296780635438,
+          109.1183109004367
+        ]
+      },
+      "properties": {
+        "name": "Levante / Fuensanta",
+        "description": "Avenida de Libia, 57",
+        "iconUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60.png",
+        "iconSize": "50,60",
+        "iconAnchor": "16,60",
+        "shadowUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60_sombra.png",
+        "shadowAnchor": "0,14",
+        "shadowSize": "65,14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.788988096636594,
+          37.89007321436107,
+          124.6712673234879
+        ]
+      },
+      "properties": {
+        "name": "Margaritas",
+        "description": "Pintor Peñalosa, 6",
+        "iconUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60.png",
+        "iconSize": "50,60",
+        "iconAnchor": "16,60",
+        "shadowUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60_sombra.png",
+        "shadowAnchor": "0,14",
+        "shadowSize": "65,14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.778812161037289,
+          37.90891547693736,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Naranjo",
+        "description": "Pintor Monroy, 10",
+        "iconUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60.png",
+        "iconAnchor": "16,60",
+        "iconSize": "50,60",
+        "shadowUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60_sombra.png",
+        "shadowAnchor": "0,14",
+        "shadowSize": "65,14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.927143264504224,
+          37.84332163599681,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Veredón / Villarrubia",
+        "description": "Calle Veredón de los Frailes, 80",
+        "iconUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60.png",
+        "iconAnchor": "16,60",
+        "iconSize": "50,60",
+        "shadowUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60_sombra.png",
+        "shadowAnchor": "0,14",
+        "shadowSize": "65,14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.656944296363999,
+          37.51402484066424,
+          379.126384857332
+        ]
+      },
+      "properties": {
+        "name": "Aguilar de la Frontera",
+        "description": "Calle Mercaderes, 7",
+        "iconUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60.png",
+        "iconAnchor": "16,60",
+        "iconSize": "50,60",
+        "shadowUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60_sombra.png",
+        "shadowAnchor": "0,14",
+        "shadowSize": "65,14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.020460120283508,
+          37.81011905296922,
+          123.2675998908058
+        ]
+      },
+      "properties": {
+        "name": "Almodóvar del Río",
+        "description": "Calle Barranco, 1",
+        "iconUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60.png",
+        "iconAnchor": "16,60",
+        "iconSize": "50,60",
+        "shadowUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60_sombra.png",
+        "shadowAnchor": "0,14",
+        "shadowSize": "65,14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.894042043503006,
+          38.40911208372105,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Añora",
+        "description": "Calle Cagilon, 8",
+        "iconUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60.png",
+        "iconAnchor": "16,60",
+        "iconSize": "50,60",
+        "shadowUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60_sombra.png",
+        "shadowAnchor": "0,14",
+        "shadowSize": "65,14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.52289006068974,
+          38.02749967944934,
+          243.026286149803
+        ]
+      },
+      "properties": {
+        "name": "Adamuz",
+        "description": "Calle Pedroche, 3",
+        "iconUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60.png",
+        "iconAnchor": "16,60",
+        "iconSize": "50,60",
+        "shadowUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60_sombra.png",
+        "shadowAnchor": "0,14",
+        "shadowSize": "65,14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.325134233075152,
+          37.61543488287326,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Baena",
+        "description": "Calle Amador de los Ríos, 7",
+        "iconUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60.png",
+        "iconAnchor": "16,60",
+        "iconSize": "50,60",
+        "shadowUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60_sombra.png",
+        "shadowAnchor": "0,14",
+        "shadowSize": "65,14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.23925184753478,
+          37.66972047041729,
+          327.6691770144269
+        ]
+      },
+      "properties": {
+        "name": "Albendín",
+        "description": "Calle Sol, 31",
+        "iconUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60.png",
+        "iconAnchor": "16,60",
+        "iconSize": "50,60",
+        "shadowUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60_sombra.png",
+        "shadowAnchor": "0,14",
+        "shadowSize": "65,14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.544634370582187,
+          37.26604186213763,
+          464.5252906051959
+        ]
+      },
+      "properties": {
+        "name": "Benamejí",
+        "description": "Calle Camino del Río, s/n",
+        "iconUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60.png",
+        "iconAnchor": "16,60",
+        "iconSize": "50,60",
+        "shadowUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60_sombra.png",
+        "shadowAnchor": "0,14",
+        "shadowSize": "65,14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.38250034733999,
+          37.89519874686894,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bujalance",
+        "description": "Calle Pedro Mateo, 3",
+        "iconUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60.png",
+        "iconSize": "50,60",
+        "iconAnchor": "16,60",
+        "shadowUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60_sombra.png",
+        "shadowAnchor": "0,14",
+        "shadowSize": "65,14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.497377692225549,
+          37.93834145959332,
+          170.1574391480794
+        ]
+      },
+      "properties": {
+        "name": "El Carpio",
+        "description": "Plaza Alto Guadalquivir, s/n",
+        "iconUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60.png",
+        "iconAnchor": "16,60",
+        "iconSize": "50,60",
+        "shadowUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60_sombra.png",
+        "shadowAnchor": "0,14",
+        "shadowSize": "65,14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.480703514075588,
+          37.69072002445498,
+          234.2847183232346
+        ]
+      },
+      "properties": {
+        "name": "Castro del Río",
+        "description": "Calle Trastorres, 3",
+        "iconUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60.png",
+        "iconAnchor": "16,60",
+        "iconSize": "50,60",
+        "shadowUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60_sombra.png",
+        "shadowAnchor": "0,14",
+        "shadowSize": "65,14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.357909776719696,
+          37.55515487609578,
+          599.2287694531558
+        ]
+      },
+      "properties": {
+        "name": "Doña Mencía",
+        "description": "Calle Juan Valera, 2",
+        "iconUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60.png",
+        "iconAnchor": "16,60",
+        "iconSize": "50,60",
+        "shadowUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60_sombra.png",
+        "shadowAnchor": "0,14",
+        "shadowSize": "65,14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.555369726145054,
+          37.67774395748579,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Espejo",
+        "description": "Calle Frasquito Castro, 40",
+        "iconUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60.png",
+        "iconAnchor": "16,60",
+        "iconSize": "50,60",
+        "shadowUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60_sombra.png",
+        "shadowAnchor": "0,14",
+        "shadowSize": "65,14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.72405355167126,
+          37.67048453778364,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fernán Núñez",
+        "description": "Calle Romero de Torres, 16",
+        "iconUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60.png",
+        "iconAnchor": "16,60",
+        "iconSize": "50,60",
+        "shadowUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60_sombra.png",
+        "shadowAnchor": "0,14",
+        "shadowSize": "65,14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.100763523677401,
+          37.70556899190558,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fuente Palmera",
+        "description": "Paseo Blas Infante. 3",
+        "iconUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60.png",
+        "iconAnchor": "16,60",
+        "iconSize": "50,60",
+        "shadowUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60_sombra.png",
+        "shadowAnchor": "0,14",
+        "shadowSize": "65,14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.14834728732529,
+          38.49946034852502,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hinojosa del Duque",
+        "description": "Calle San Agustín, 15",
+        "iconUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60.png",
+        "iconAnchor": "16,60",
+        "iconSize": "50,60",
+        "shadowUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60_sombra.png",
+        "shadowAnchor": "0,14",
+        "shadowSize": "65,14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.441985862071166,
+          37.47715579804414,
+          459.4892130555863
+        ]
+      },
+      "properties": {
+        "name": "Cabra",
+        "description": "Calle Belén, 14",
+        "iconUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60.png",
+        "iconAnchor": "16,60",
+        "iconSize": "50,60",
+        "shadowUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60_sombra.png",
+        "shadowAnchor": "0,14",
+        "shadowSize": "65,14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.27478528934855,
+          37.44288289337983,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Carcabuey",
+        "description": "Calle Hoya, 14",
+        "iconUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60.png",
+        "iconAnchor": "16,60",
+        "iconSize": "50,60",
+        "shadowUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60_sombra.png",
+        "shadowAnchor": "0,14",
+        "shadowSize": "65,14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.748883869281735,
+          37.58194163708044,
+          284.8383145916603
+        ]
+      },
+      "properties": {
+        "name": "Montalbán",
+        "description": "Calle Empedrada, 72",
+        "iconUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60.png",
+        "iconAnchor": "16,60",
+        "iconSize": "50,60",
+        "shadowUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60_sombra.png",
+        "shadowAnchor": "0,14",
+        "shadowSize": "65,14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.699574563039564,
+          37.64860452955209,
+          389.8050565639171
+        ]
+      },
+      "properties": {
+        "name": "Montemayor",
+        "description": "Calle Leonor Varona, 13",
+        "iconUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60.png",
+        "iconAnchor": "16,60",
+        "iconSize": "50,60",
+        "shadowUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60_sombra.png",
+        "shadowAnchor": "0,14",
+        "shadowSize": "65,14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.63634833033745,
+          37.58551590398602,
+          389.288464536731
+        ]
+      },
+      "properties": {
+        "name": "Montilla",
+        "description": "Calle Fuentes, 35",
+        "iconUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60.png",
+        "iconAnchor": "16,60",
+        "iconSize": "50,60",
+        "shadowUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60_sombra.png",
+        "shadowAnchor": "0,14",
+        "shadowSize": "65,14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.383904551902738,
+          38.01642194239565,
+          224.906352038993
+        ]
+      },
+      "properties": {
+        "name": "Montoro",
+        "description": "Calle Juan Antonio Cervera, 6",
+        "iconUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60.png",
+        "iconAnchor": "16,60",
+        "iconSize": "50,60",
+        "shadowUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60_sombra.png",
+        "shadowAnchor": "0,14",
+        "shadowSize": "65,14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.485112537698236,
+          37.41032258537427,
+          488.5656056596012
+        ]
+      },
+      "properties": {
+        "name": "Lucena",
+        "description": "Calle Maristas, 8",
+        "iconUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60.png",
+        "iconAnchor": "16,60",
+        "iconSize": "50,60",
+        "shadowUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60_sombra.png",
+        "shadowAnchor": "0,14",
+        "shadowSize": "65,14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.466668948326463,
+          37.58523457669287,
+          452.5875416659632
+        ]
+      },
+      "properties": {
+        "name": "Nueva Carteya",
+        "description": "Plaza Márquez de la Estella, 25",
+        "iconUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60.png",
+        "iconAnchor": "16,60",
+        "iconSize": "50,60",
+        "shadowUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60_sombra.png",
+        "shadowAnchor": "0,14",
+        "shadowSize": "65,14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.282763108609874,
+          37.69609120654876,
+          59.10773424828665
+        ]
+      },
+      "properties": {
+        "name": "Palma del Río",
+        "description": "Calle Pastores, 7",
+        "iconUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60.png",
+        "iconAnchor": "16,60",
+        "iconSize": "50,60",
+        "shadowUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60_sombra.png",
+        "shadowAnchor": "0,14",
+        "shadowSize": "65,14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.264368210464332,
+          38.29724710008473,
+          535.382982556441
+        ]
+      },
+      "properties": {
+        "name": "Peñarroya-Pueblonuevo",
+        "description": "Calle Sol, 33",
+        "iconUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60.png",
+        "iconAnchor": "16,60",
+        "iconSize": "50,60",
+        "shadowUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60_sombra.png",
+        "shadowAnchor": "0,14",
+        "shadowSize": "65,14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.108550745517222,
+          37.80208118645182,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Posadas",
+        "description": "Calle Concejal Miguel Paredes Pradas, s/n",
+        "iconUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60.png",
+        "iconAnchor": "16,60",
+        "iconSize": "50,60",
+        "shadowUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60_sombra.png",
+        "shadowAnchor": "0,14",
+        "shadowSize": "65,14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.848822015610406,
+          38.37606325694053,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pozoblanco",
+        "description": "Calle León Herrero, 27",
+        "iconUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60.png",
+        "iconAnchor": "16,60",
+        "iconSize": "50,60",
+        "shadowUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60_sombra.png",
+        "shadowAnchor": "0,14",
+        "shadowSize": "65,14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.767296928988332,
+          37.39048417592488,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Puente Genil",
+        "description": "Calle José Ariza, 23",
+        "iconUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60.png",
+        "iconAnchor": "16,60",
+        "iconSize": "50,60",
+        "shadowUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60_sombra.png",
+        "shadowAnchor": "0,14",
+        "shadowSize": "65,14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.739385747924015,
+          37.60486361008771,
+          351.2633311912416
+        ]
+      },
+      "properties": {
+        "name": "La Rambla",
+        "description": "Calle Espíritu Santo, 4",
+        "iconUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60.png",
+        "iconAnchor": "16,60",
+        "iconSize": "50,60",
+        "shadowUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60_sombra.png",
+        "shadowAnchor": "0,14",
+        "shadowSize": "65,14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.293566528215527,
+          37.98076189439464,
+          167.5914896878979
+        ]
+      },
+      "properties": {
+        "name": "Villa del Río",
+        "description": "Calle Nueva, 42",
+        "iconUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60.png",
+        "iconAnchor": "16,60",
+        "iconSize": "50,60",
+        "shadowUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60_sombra.png",
+        "shadowAnchor": "0,14",
+        "shadowSize": "65,14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.633468817407871,
+          37.73383000837039,
+          202.5014067667421
+        ]
+      },
+      "properties": {
+        "name": "Santa Cruz",
+        "description": "Calle Ancha, 15",
+        "iconUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60.png",
+        "iconAnchor": "16,60",
+        "iconSize": "50,60",
+        "shadowUrl": "https://iu-cordoba.org/wp-content/uploads/2019/06/mapa-marcador-IU_50x60_sombra.png",
+        "shadowAnchor": "0,14",
+        "shadowSize": "65,14"
+      }
+    }
+  ]
+}
